@@ -1,3 +1,1 @@
-remote theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # z
+theme: jekyll-theme-time-machine
